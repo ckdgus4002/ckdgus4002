@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Lee Changhyun. Unity Engineer. living in South Korea.  
 Most of the programs are developed by Unity.  
-I also use other frameworks and langues as needed.
+Also use other frameworks and langues as needed.
 
 - 🔭 I’m always working on a unity projects. game, education, simulation, industry, etc..
 - 🌱 I’m currently(2024.6.11) learning UGS, DOTS, ShaderLab, Other things about Unity.
