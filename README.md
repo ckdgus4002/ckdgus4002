@@ -11,16 +11,20 @@ I also use other frameworks and langues as needed.
 - 💬 Ask me anything. Even if you don't know, I'll find it.
 - 📫 How to reach me: lch@lch.kr
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: There is a singer who uses the Get Method many times. What song does this singer sing? Boom Boom Pow
+- ⚡ Fun fact: There is a singer who uses the Get Method many times. What song does this singer sing? Boom Boom Pow.
 
 ### Languages
-C#, Python, JavaScript, Java, Objective-C
+C#, Python, JavaScript, Java, Objective-C, SQL
 
 ### Frameworks
 Unity, .NET, Razor, Phaser
 
+### Cloud Computing Service
+UGS, Firebase, AWS
+
 ### Platforms
 Android, iOS, Standalone, Web
 
-###
-![LCH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckdgus4002&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</br>
+
+![](https://github-readme-stats.vercel.app/api?username=ckdgus4002&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
