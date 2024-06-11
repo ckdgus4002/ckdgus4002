@@ -5,7 +5,7 @@ Most of the programs are developed by Unity.
 I also use other frameworks and langues as needed.
 
 - 🔭 I’m always working on a unity projects. game, education, simulation, industry, etc..
-- 🌱 (2024.6.11) I’m currently learning UGS, DOTS, ShaderLab, Other things about Unity.
+- 🌱 I’m currently(2024.6.11) learning UGS, DOTS, ShaderLab, Other things about Unity.
 - 👯 I’m looking to collaborate with someone who has open minds and passion.
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me anything. Even if you don't know, I'll find it.
