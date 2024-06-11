@@ -22,6 +22,9 @@ Unity, .NET, Razor, Phaser
 ### Cloud Computing Service
 UGS, Firebase, AWS
 
+### Version Control
+Git, SVN
+
 ### Platforms
 Android, iOS, Standalone, Web
 
