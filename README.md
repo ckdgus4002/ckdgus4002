@@ -23,4 +23,3 @@ I also use other frameworks and langues as needed.
 - Cloud Computing Service: UGS, Firebase, AWS, Ncloud
 - Version Control: Git, SVN
 - Platforms: Android, iOS, Standalone, Web
-
