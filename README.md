@@ -1,5 +1,4 @@
-# Hi there 👋
-
+## Hi there 👋
 I'm Lee Changhyun. Unity Engineer. living in South Korea.  
 Most of the programs are developed by Unity.  
 I also use other frameworks and langues as needed.
@@ -13,11 +12,11 @@ I also use other frameworks and langues as needed.
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: There is a singer who uses the Get Method many times. What song does this singer sing? Boom Boom Pow.  
 
-</br>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=ckdgus4002&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Tech Stack
+## My Tech Stack 💻
 
 - Languages: C#, Python, JavaScript, Java, Objective-C, SQL
 - Frameworks: Unity, .NET, Razor, Phaser
