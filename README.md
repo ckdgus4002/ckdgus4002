@@ -1,4 +1,4 @@
-![030](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/4dbdc7c0-e895-4489-855c-c0fffab0c53f)
+![profile](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/cef71fae-2a6b-45fa-bc92-7a29ec7abe50)
 
 ## Hi there 👋
 I'm Lee Changhyun. Unity Engineer. living in South Korea.  
