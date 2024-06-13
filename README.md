@@ -1,3 +1,5 @@
+![030](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/4dbdc7c0-e895-4489-855c-c0fffab0c53f)
+
 ## Hi there 👋
 I'm Lee Changhyun. Unity Engineer. living in South Korea.  
 Most of the programs are developed by Unity.  
