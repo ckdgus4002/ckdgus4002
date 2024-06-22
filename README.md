@@ -20,7 +20,7 @@ Also use other frameworks and langues as needed.
 
 ## My Tech Stack 💻
 
-- Languages: C#, HLSL, C++, C, Python, Java, JavaScript, Kotlin, Objective-C, Swift, Visual Basic, SQL
+- Languages: C#, ShaderLab, C++, C, Python, Java, JavaScript, Kotlin, Objective-C, Swift, Visual Basic, SQL
 - Frameworks: Unity, .NET, Razor, Phaser
 - Cloud Computing Service: UGS, Firebase, AWS, Ncloud
 - Platforms: Android, iOS, Standalone, Web
