@@ -1,5 +1,3 @@
-![profile](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/cef71fae-2a6b-45fa-bc92-7a29ec7abe50)
-
 ## Hi there 👋
 I'm Lee Changhyun. Unity Engineer. living in Seoul, South Korea.  
 Most of the programs are developed by Unity.  
@@ -12,7 +10,6 @@ Also use other frameworks and langues as needed.
 - 💬 Ask me anything. Even if you don't know, I'll find it.
 - 📫 How to reach me: lch@lch.kr
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: There is a singer who uses the Get Method many times. What song does this singer sing? Boom Boom Pow.  
 
 <br>
 
