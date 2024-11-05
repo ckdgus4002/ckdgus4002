@@ -28,4 +28,4 @@ Also use other frameworks and langues as needed.
 
 
 ## [Assignment](https://github.com/ckdgus4002?tab=repositories&q=Assignment)
-[![Assignment-CookApps1](https://img.youtube.com/vi/5QUxdj1Fg7w/0.jpg)](https://github.com/ckdgus4002/Assignment-CookApps1 "Assignment-CookApps1")
+[![Assignment1](https://img.youtube.com/vi/5QUxdj1Fg7w/0.jpg)](https://github.com/ckdgus4002/Assignment1)
