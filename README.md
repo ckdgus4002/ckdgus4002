@@ -25,7 +25,3 @@ Also use other frameworks and langues as needed.
 ## Side Project
 [![Icon1](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/7bba89e6-5cb5-42e7-a38e-28a71817c857)](https://play.google.com/store/apps/details?id=kr.lch.ohulbul1)
 ![Icon](https://github.com/ckdgus4002/ckdgus4002/assets/36181612/0c4e5801-df48-4c95-8dc1-db11c2726ba6)
-
-
-## [Assignment](https://github.com/ckdgus4002?tab=repositories&q=Assignment)
-[![Assignment1](https://img.youtube.com/vi/5QUxdj1Fg7w/0.jpg)](https://github.com/ckdgus4002/Assignment1)
