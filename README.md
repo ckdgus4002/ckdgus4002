@@ -24,7 +24,7 @@ Also use other frameworks and langues as needed.
 
 
 ## My Project
-<a href="https://play.google.com/store/apps/details?id=kr.bookidsnco.bookids">
+<a href="https://play.google.com/store/apps/details?id=com.bookidsnco.bookids">
   <img width="256" height="256" alt="Icon3" src="https://github.com/user-attachments/assets/3495357a-6950-4c52-a396-c85030655114" />
 </a>
 <a>
