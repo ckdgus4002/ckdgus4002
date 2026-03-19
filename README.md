@@ -27,9 +27,9 @@ Also use other frameworks and langues as needed.
 <a href="https://play.google.com/store/apps/details?id=com.bookidsnco.bookids">
   <img width="256" height="256" alt="Icon3" src="https://github.com/user-attachments/assets/3495357a-6950-4c52-a396-c85030655114" />
 </a>
-<a>
-  <img width="256" height="256" alt="Icon3" src="https://github.com/ckdgus4002/ckdgus4002/assets/36181612/0c4e5801-df48-4c95-8dc1-db11c2726ba6" />
-</a>
-<a href="[https://play.google.com/store/apps/details?id=kr.bookidsnco.bookids](https://play.google.com/store/apps/details?id=kr.lch.ohulbul1)">
+
+<img width="256" height="256" alt="Icon3" src="https://github.com/ckdgus4002/ckdgus4002/assets/36181612/0c4e5801-df48-4c95-8dc1-db11c2726ba6" />
+
+<a href="https://play.google.com/store/apps/details?id=kr.lch.ohulbul1">
   <img width="256" height="256" alt="Icon3" src="https://github.com/ckdgus4002/ckdgus4002/assets/36181612/7bba89e6-5cb5-42e7-a38e-28a71817c857" />
 </a>
